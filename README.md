@@ -112,7 +112,7 @@
 ---
 
 <div align="center">
-  <sub>⚡ 由 26YWZM 用 ♥ 与 AI 构建 · 在线简历：[26ywzm.github.io](https://26ywzm.github.io)</sub>
+  <sub>⚡ 由 26YWZM 用 ♥ 与 AI 构建 </sub>
   <br />
   <sub>Thanks for visiting! 🚀</sub>
 </div>
