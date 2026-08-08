@@ -34,9 +34,9 @@
 
 - 🎯 求职方向：**全栈工程师 / 运维工程师**（期望城市：北京）
 - 🛠️ 技术栈：Vue3 · Node.js · Express · MySQL · Linux · Docker · Nginx
-- 🏸 兴趣：羽毛球 / 台球 / 跑步 / NAS / 折腾服务器
-- 📬 邮箱：1972208498@qq.com
-- 🌐 在线简历：[26ywzm.github.io](https://26ywzm.github.io)
+- 🏸 兴   趣：羽毛球 / 台球 / 跑步 / NAS / 折腾服务器
+- 📬 邮   箱：admin@ywzm.eu.rog
+- 🌐 个人博客：blog.ywzm.eu.rog
 
 ## 🛠️ 技术栈
 
