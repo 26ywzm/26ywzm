@@ -98,10 +98,10 @@
 | 🖥️ 远程控制本地电脑应用程序 | JavaScript 远程控制桌面应用 | [查看仓库](https://github.com/26ywzm/%E8%BF%9C%E7%A8%8B%E6%8E%A7%E5%88%B6%E6%9C%AC%E5%9C%B0%E7%94%B5%E8%84%91%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F) |
 | 📝 技术博客 | Cloudflare 构建的动态博客 | [blog.ywzm.eu.org](https://blog.ywzm.eu.org) |
 
-## 🐍 贡献蛇动画（可选）
+## 🐍 贡献蛇
 
 <details>
-  <summary>展开查看贡献蛇 🐍（需先启用仓库里的 snake.yml 工作流）</summary>
+  <summary>展开查看贡献蛇 🐍</summary>
 
   <p align="center">
     <img src="https://raw.githubusercontent.com/26ywzm/26ywzm/output/github-contribution-grid-snake-dark.svg" alt="贡献蛇动画" />
